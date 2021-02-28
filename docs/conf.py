@@ -66,7 +66,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'sphinx_rtd_theme'
 
-# html_logo = 'images/icons/Full_white_background.png'
+html_logo = '_static/JustMe.png'
 html_favicon = '../images/elo_logo.ico'
 
 html_title = 'Elo 7 Interview'
