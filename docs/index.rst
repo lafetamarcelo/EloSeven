@@ -36,7 +36,11 @@ to App Engine as a `joblib` dump. This particular model, is one with such confid
    :align: center
    :width: 600
 
-To access the API, you can use the following end-point provided on email.
+To access the API, you can use the following end-point:
+
+.. code-block::
+   
+   https://classify-data-dot-elo7interview.rj.r.appspot.com
 
 .. note:: 
 
