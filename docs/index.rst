@@ -39,8 +39,8 @@ to App Engine as a `joblib` dump. This particular model, is one with such confid
 To access the API, you can use the following end-point:
 
 .. code-block::
-   
-   https://classify-data-dot-elo7interview.rj.r.appspot.com
+
+   https://classify-data-dot-elo7interview.rj.r.appspot.com/v1/categorize
 
 .. note:: 
 
